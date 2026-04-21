@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pth
+*.onnx
+*.engine
+output_videos/
+sample_videos/*.mp4
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+CLAUDE.md
