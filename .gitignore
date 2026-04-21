@@ -10,3 +10,5 @@ sample_videos/*.mp4
 dist/
 build/
 CLAUDE.md
+.claude/
+*.swp
